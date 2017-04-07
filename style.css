@@ -162,6 +162,7 @@
 	color: white;
 	font-size: 20px;
 	padding: 0 10px;
+	column-count: 2;
 }
 .a_button{
 	 display: flex;

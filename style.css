@@ -164,6 +164,7 @@
 	padding: 0 10px;
 	column-count: 2;
 	width: 60%;
+	margin: 0 auto;
 }
 .a_button{
 	 display: flex;
